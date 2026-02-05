@@ -17,14 +17,14 @@
 
 ## 👨‍💻 About Me
 
-> *"I believe in the power of decentralization and data-driven decision making."*
+> *"In God we trust; in code we verify."*
 
-I am a developer with a strong focus on **Blockchain Technology** and **Quantitative Finance**. My passion lies in building secure, upgradeable smart contracts and analyzing complex market trends to uncover actionable insights.
+I am a **Christian** who believes in God, an **Austrian Economics** advocate, and a strong supporter of **Sound Money**. My passion lies in building secure, decentralized financial systems that align with these principles.
 
 - 🔭 I’m currently working on **RWA Tokenization** and **DeFi Protocols**.
+- 📉 I apply **Austrian Economic** principles to analyze crypto market cycles.
 - 🌱 I’m currently learning **Zero Knowledge Proofs** and **Advanced Solidity Patterns**.
-- 👯 I’m looking to collaborate on **Open Source Web3 Projects**.
-- 💬 Ask me about **Solidity, Tokenomics, and Crypto Investment Strategies**.
+-  Ask me about **Solidity, Tokenomics, and Investment Philosophy**.
 
 ---
 
@@ -47,31 +47,17 @@ I am a developer with a strong focus on **Blockchain Technology** and **Quantita
 
 <div align="center">
 
-| **[💰 Bitcoin Investment Strategies](./Bitcoin%20Investment%20Strategy%20Analysis.md)** | **[🪙 SureToken (RWA)](./RWA%20tokenization%20prototype.md)** |
-|:---:|:---:|
-| *Comparative analysis of HODL, DCA, and Quant trading strategies* | *TRC20 Upgradeable Smart Contract for Real World Assets* |
-| `Python` `Pandas` `Algo-Trading` | `Solidity` `TRON` `Dividends` |
-| ![BTC Chart Placeholder](https://via.placeholder.com/300x150?text=BTC+Strategies+Viz) | ![Token Placeholder](https://via.placeholder.com/300x150?text=SureToken+Contract) |
+| **💰 Bitcoin Investment Strategies** | **🪙 SureToken (RWA)** |
+|:---|:---|
+| A comparative analysis of HODL, DCA, and Quantitative trading strategies for Bitcoin (2010-2024), proving the robustness of DCA. | A feature-rich TRC20 smart contract for Real World Asset tokenization, implementing upgradeable proxy patterns and dividend distribution. |
 
-| **[📈 Dune Analytics Dashboard](./dune-ethereum-dashboard.md)** | **[🛡️ Web3 Portfolio Tracker](./web3%20portfolio%20tracker.md)** |
-|:---:|:---:|
-| *Macro Outlook & Ecosystem Metrics for Ethereum* | *Upgradeable Multi-Asset Tracker with Hybrid Oracles* |
-| `SQL` `Data Viz` `On-Chain Data` | `Solidity` `Chainlink` `UUPS` |
-| ![Dune Placeholder](https://via.placeholder.com/300x150?text=Dune+Dashboard) | ![Tracker Placeholder](https://via.placeholder.com/300x150?text=Portfolio+Tracker) |
+| **📈 Dune Analytics Dashboard** | **🛡️ Web3 Portfolio Tracker** |
+|:---|:---|
+| Comprehensive SQL-based analysis of Ethereum's macro outlook and ecosystem metrics, visualizing liquidity flows and staking trends. | An upgradeable(UUPS) multi-asset portfolio tracker utilizing a Hybrid Oracle Architecture for maximum reliability across testnets. |
 
 </div>
 
 ---
-
-## ⚡ GitHub Stats
-
-<div align="center">
-
-[![Haoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <!--
 ## 🎓 Education
