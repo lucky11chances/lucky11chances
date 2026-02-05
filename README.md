@@ -1,11 +1,15 @@
+
+<div align="center">
+<!-- Note: Change 'yourusername' to your actual GitHub username in all URLs below -->
+
 # Hi there, I'm Haoyu! 👋
 
 ### 🚀 Web3 Developer | 📊 Quantitative Analyst | ⛓️ Blockchain Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+DeFi+Protocols;Analyzing+Crypto+Markets;Writing+Smart+Contracts;Visualizing+On-Chain+Data)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haoyuxie/)
+[![](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:xiehaoyu258@gmail.com)
 
 </div>
 
